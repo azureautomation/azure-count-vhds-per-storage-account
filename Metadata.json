@@ -1,0 +1,20 @@
+{
+    "Author": "Adam Conkle - MSFT",
+    "ContentSize": 8592,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-count-vhds-per-storage-account/master/AzureStorageVhdCount.ps1",
+    "DownloadCount": 1910,
+    "Id": "Azure-Count-VHDs-Per-6a44ecbd",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 272,
+    "RaterCount": 3,
+    "Rating": 3.7,
+    "ReleaseDate": "2014-7-22T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The purpose of this sample is to easily display a count of VHDs per Storage Account for a given Azure subscription. This sample counts all VHD files in each Storage Account, regardless of whether or not the VHD files are currently attached as a disk to a Azure VM object.",
+    "Title": "Azure - Count VHDs Per Storage Account",
+    "UpdatedDate": "2014-7-22T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-count-vhds-per-storage-account",
+    "UserTags": "Microsoft Azure, iops, azure storage"
+}
